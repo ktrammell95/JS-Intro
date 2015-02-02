@@ -37,7 +37,7 @@ a = b;
 b = 20;
 
 // Q: What is the value of a?
-// 20
+// 10
 
 
 var greeting = "Hello " + name + ", how are you?";
